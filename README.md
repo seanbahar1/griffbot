@@ -1,2 +1,3 @@
-# griffbot
-a  bot
+﻿# darkgriffen_bot
+
+
